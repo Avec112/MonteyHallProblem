@@ -1,3 +1,5 @@
+package no.avec112.montyhallproblem;
+
 public class Door {
     private String doorNumber;
     private boolean price;

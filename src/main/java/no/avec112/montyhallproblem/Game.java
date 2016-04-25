@@ -1,4 +1,4 @@
-import sun.reflect.generics.reflectiveObjects.NotImplementedException;
+package no.avec112.montyhallproblem;
 
 import java.util.Random;
 

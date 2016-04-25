@@ -1,3 +1,5 @@
+package no.avec112.montyhallproblem;
+
 import java.util.List;
 
 public class Application {

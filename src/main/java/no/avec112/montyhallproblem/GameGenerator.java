@@ -1,3 +1,5 @@
+package no.avec112.montyhallproblem;
+
 import java.util.ArrayList;
 import java.util.List;
 
