@@ -8,20 +8,18 @@ You now get the option to stick with you original door or choose the other remai
 
 ## What do you do?
 
-Option 1) Stay with the same door (This  
-Option 2) Pick the other door
+Option 1) Stay with the same door (This options is normaly what most people would choose) - 33.3% winrate
+Option 2) Pick the other door (This option is what you should choose) - 66,6% winrate
   
 Option 1 is normaly what most people would choose but the wise thing would actually be to switch door.  
 
-The simple program shows the two different options with 1000 games each.  
-Option 1 equals 33,3% chance of winning  
-Option 2 equals 66,6% chance of winning
+The simple program shows the two different options run for 1000 games each.  
 
 ## Requirements
 - Java 1.7 or newer installed
 - Maven 3.0 or newer installed
 
 ## Install
-* To run download the application (git clone [link]())
-* Start a command shell and go to the catalog where you put the Montey Hall Problem application
-* `$> mvn exec:run`
+* Start a command shell and go to wherever you want to put the application 
+* Clone the repo with `$> git clone https://github.com/Avec112/MonteyHallProblem.git`
+* `$> mvn compile exec:run`
