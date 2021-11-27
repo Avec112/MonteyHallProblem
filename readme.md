@@ -25,8 +25,9 @@ The simple program shows the two different options run for 1000 games each.
 * Start a command shell 
 * Clone the repo with `> git clone https://github.com/Avec112/MonteyHallProblem.git`
 * `> cd MonteyHallProblem`
-* `> mvn compile exec:run`
+* `> mvn compile package`
+* * `> mvn exec:java`
 
 ### Alternatively  
-- `> mvn install`  
+- `> mvn package`  
 - `> java -jar montey-hall-problem-1.0-SNAPSHOT.jar`
