@@ -22,10 +22,11 @@ The simple program shows the two different options run for 1000 games each.
 - Maven 3.0 or newer installed
 
 ## Install
-* Start a command shell and go to wherever you want to put the application 
-* Clone the repo with `$> git clone https://github.com/Avec112/MonteyHallProblem.git`
-* `$> mvn compile exec:run`
+* Start a command shell 
+* Clone the repo with `> git clone https://github.com/Avec112/MonteyHallProblem.git`
+* `> cd MonteyHallProblem`
+* `> mvn compile exec:run`
 
 ### Alternatively  
-- `$> mvn install`  
-- `$> java -jar montey-hall-problem-1.0-SNAPSHOT.jar`
+- `> mvn install`  
+- `> java -jar montey-hall-problem-1.0-SNAPSHOT.jar`
