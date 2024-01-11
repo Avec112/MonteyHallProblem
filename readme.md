@@ -18,16 +18,15 @@ Option 1 is normaly what most people would choose but the wise thing would actua
 The simple program shows the two different options run for 1000 games each.  
 
 ## Requirements
-- Java 1.7 or newer installed
-- Maven 3.0 or newer installed
+- Java 1.8 or newer installed
+- Maven 3.1.0 or newer installed
 
 ## Install
 * Start a command shell 
 * Clone the repo with `> git clone https://github.com/Avec112/MonteyHallProblem.git`
 * `> cd MonteyHallProblem`
-* `> mvn compile package`
-* * `> mvn exec:java`
+* `> mvn compile exec:java`
 
 ### Alternatively  
 - `> mvn package`  
-- `> java -jar montey-hall-problem-1.0-SNAPSHOT.jar`
+- `> java -jar target/montey-hall-problem-1.0-SNAPSHOT.jar`
